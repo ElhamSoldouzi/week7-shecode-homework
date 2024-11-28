@@ -1,0 +1,16 @@
+body {
+  background-color: #f6f5fa;
+  font-family: "Playfair Display", serif;
+}
+
+.app {
+  background: white;
+  max-width: 600px;
+  margin: 50px auto;
+  box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
+  border-radius: 15px;
+  padding: 30px;
+}
+h1 {
+  font-family: "Exo 2", sans-serif;
+}
