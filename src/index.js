@@ -1,5 +1,5 @@
 function searchSubmit(event) {
-  event.preventDefalt();
+  event.preventDefault();
 }
 
 let searchFormElement = document.querySelector("#search-form");
