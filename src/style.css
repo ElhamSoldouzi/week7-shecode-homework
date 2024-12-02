@@ -36,18 +36,19 @@ body {
 }
 
 .number {
-  font-size: 60px;
+  font-size: 70px;
   font-weight: bold;
   margin-left: 5px;
 }
 .icon {
-  font-size: 27px;
-  margin-top: 25px;
+  width: 70px;
+  height: 70px;
+  margin-top: 20px;
 }
 
 .degree {
   font-size: 15px;
-  margin-top: 20px;
+  margin-top: 25px;
 }
 .search-form-input {
   background-color: #f6f5fa;
